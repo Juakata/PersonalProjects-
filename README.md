@@ -1,5 +1,5 @@
 # PersonalProjects-
 Links to all the repos and pull requests of projects
 
-https://github.com/hugopassos/Form-Page
-https://github.com/Juakata/Embedding
+Repo: https://github.com/hugopassos/Form-Page Web Page: https://raw.githack.com/Juakata/Embedding/master/index.html
+Repo: https://github.com/Juakata/Embedding Web Page: https://raw.githack.com/hugopassos/Form-Page/master/index.html
