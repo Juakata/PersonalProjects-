@@ -10,3 +10,5 @@ Repo: https://github.com/Juakata/New-York-Times-article Web Page: https://raw.gi
 Repo: https://github.com/Juakata/Apple-Website Web Page: https://raw.githack.com/Juakata/Apple-Website/master/index.html
 
 Repo: https://github.com/hugopassos/Smashing-Magazine Web Page: https://raw.githack.com/hugopassos/Smashing-Magazine/master/index.html
+
+Repo: https://github.com/Juakata/Next-Web Web Page:  https://raw.githack.com/Juakata/Next-Web/master/index.html
