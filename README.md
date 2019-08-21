@@ -14,3 +14,5 @@ Repo: https://github.com/Juakata/Smashing-Magazine Page: https://raw.githack.com
 Repo: https://github.com/Juakata/Next-Web Web Page:  https://raw.githack.com/Juakata/Next-Web/master/index.html
 
 Repo: https://github.com/Juakata/Newsweek-Bootstrap Web Page: https://raw.githack.com/Juakata/Newsweek-Bootstrap/master/index.html
+
+Repo: https://github.com/Juakata/Grid-Based-Framework Web Page: https://raw.githack.com/hugopassos/Grid-Based-Framework/master/index.html
