@@ -20,3 +20,9 @@ Repo: https://github.com/Juakata/Newsweek-Bootstrap Web Page: https://raw.githac
 Repo: https://github.com/Juakata/Grid-Based-Framework Web Page: https://raw.githack.com/hugopassos/Grid-Based-Framework/master/index.html
 
 # RUBY PROJECTS
+
+https://github.com/Juakata/Bubble-Sort
+
+https://github.com/Juakata/Enumerable-Methods
+
+https://github.com/Juakata/Tic-Tac-Toe-Game
