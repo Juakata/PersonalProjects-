@@ -29,6 +29,12 @@ https://github.com/Juakata/Tic-Tac-Toe-Game
 
 # RUBY ON RAILS Projects
 
+Repo: https://github.com/Juakata/private-events
+
 Repo: https://github.com/Juakata/cabinet_tutorial
 
 Repo: https://github.com/Juakata/building-facebook Web Page: https://intense-harbor-38641.herokuapp.com/
+
+# Javascripts Projects
+
+Repo: https://github.com/Juakata/Library Web Page: https://raw.githack.com/Juakata/Library/development/index.html
