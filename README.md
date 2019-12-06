@@ -1,5 +1,5 @@
 # PersonalProjects-
-Links to all the repos and pull requests of projects
+Links to all the repos and live links to the projects.
 
 # HTML and CSS Projects
 
@@ -38,3 +38,5 @@ Repo: https://github.com/Juakata/building-facebook Web Page: https://intense-har
 # Javascripts Projects
 
 Repo: https://github.com/Juakata/Library Web Page: https://raw.githack.com/Juakata/Library/development/index.html
+
+Repo: https://github.com/Juakata/tic-tac-toe-js Web Page: https://raw.githack.com/Juakata/tic-tac-toe-js/development/index.html
