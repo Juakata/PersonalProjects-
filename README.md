@@ -40,3 +40,5 @@ Repo: https://github.com/Juakata/building-facebook Web Page: https://intense-har
 Repo: https://github.com/Juakata/Library Web Page: https://raw.githack.com/Juakata/Library/development/index.html
 
 Repo: https://github.com/Juakata/tic-tac-toe-js Web Page: https://raw.githack.com/Juakata/tic-tac-toe-js/development/index.html
+
+Repo: https://github.com/Juakata/Restaurant Web Page: https://raw.githack.com/Juakata/Restaurant/development/dist/index.html
