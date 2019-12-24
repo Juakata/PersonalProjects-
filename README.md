@@ -46,3 +46,5 @@ Repo: https://github.com/Juakata/Restaurant Web Page: https://raw.githack.com/Ju
 Repo: https://github.com/Juakata/Minesweeper Web Page: https://raw.githack.com/Juakata/Minesweeper/master/index.html
 
 Repo: https://github.com/Juakata/ToDoList-JS Web Page: https://raw.githack.com/Juakata/ToDoList-JS/development/dist/index.html
+
+Repo: https://github.com/Juakata/Weather-App-JS Web Page: https://raw.githack.com/Juakata/Weather-App-JS/development/dist/index.html
