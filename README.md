@@ -48,3 +48,6 @@ Repo: https://github.com/Juakata/Minesweeper Web Page: https://raw.githack.com/J
 Repo: https://github.com/Juakata/ToDoList-JS Web Page: https://raw.githack.com/Juakata/ToDoList-JS/development/dist/index.html
 
 Repo: https://github.com/Juakata/Weather-App-JS Web Page: https://raw.githack.com/Juakata/Weather-App-JS/development/dist/index.html
+
+Repo: https://github.com/Juakata/Battleship-JS Web Page: https://focused-bhaskara-527116.netlify.com/
+
